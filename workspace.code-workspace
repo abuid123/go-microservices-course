@@ -19,6 +19,9 @@
 		{
 			"name": "logger-service",
 			"path": "logger-service"
+		},
+		{
+			"path": "mail-service"
 		}
 	]
 }
