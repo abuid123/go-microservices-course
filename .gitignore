@@ -16,3 +16,6 @@ front-end/frontApp
 
 # Go
 vendor/
+
+# Local database data
+project/db-data/

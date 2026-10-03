@@ -15,7 +15,7 @@ VALUES (
     'admin@example.com',
     'Admin',
     'User',
-    '$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bkFdChFa06e',
+    '$2a$12$j8vSXCm860LAobeCdonM4.fBMDrh7ihxAmsGSDiPcSwo6Mj4cthou',
     1,
     now(),
     now()
